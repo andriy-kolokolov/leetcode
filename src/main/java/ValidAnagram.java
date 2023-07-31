@@ -1,5 +1,3 @@
-package org.leetcode;
-
 import java.util.Arrays;
 
 public class ValidAnagram {
